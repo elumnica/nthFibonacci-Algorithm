@@ -8,6 +8,8 @@ number.
 
 */
 
+// Worst Solution 
+// O(2^n) time | O(n) space
 
 function getNthFib(n){
     if (n===2){
